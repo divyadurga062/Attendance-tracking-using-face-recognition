@@ -1,4 +1,4 @@
-# 🔗Attendance_Tracking_using_face_recognition
+# 🔗Attendance_Tracking_using_face_recognition 🖳
 
 It’s a Python GUI (using tkinter library) integrated attendance system which  will be using face recognition for taking attendance.
     
