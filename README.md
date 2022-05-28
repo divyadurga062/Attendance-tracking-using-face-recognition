@@ -19,7 +19,7 @@ It’s a Python GUI (using tkinter library) integrated attendance system which  
    1. tkinter which is a standard GUI library for python.
    2. OpenCV for taking images and for face recognition wherein Haar cascade  classifier algorithm  is used which is an object detection algorithm used to identify faces in this application.
    3. numpy , pandas, CSV, datetime ,pillow etc for making excels and displaying live clock on the window and etc.
-## Install dependencies required to run the app
+## Install dependencies required to run the app :
 
 First requirement is that 'python' should be installed 
 and make sure pip is available along with it(generally it is included by default with the Python binary installers).
@@ -39,7 +39,7 @@ I have also included all these commands in the '*requirements.txt*'.
 
 After all these were done just run the **main.py** file to use the application.
  
-## Features
+## Features :
 1. It’s interactive with GUI support, password is asked while a user is newly registering.
 2. Takes images during registration for using face recognition further in attendance marking.
 3. When a new user is registered, a CSV file(can be opened as a Excel spreadsheet) where in all the details entered will be as it is stored.
@@ -51,12 +51,12 @@ After all these were done just run the **main.py** file to use the application.
 9. 'Admin help centre' option is provided in menubar in case if the admin wants to change the protected password used for registrations then he/she need to enter admin password there and later can change the password.
 10. ’Student help centre’ also provided where the students can get a mail id to contact the admin(teacher) which will be popped up when he/she choose to contact admin option.
 
-## 🔗Demo
+## 🔗Demo :
 
 For demo video, please follow the link below.
 
 
-## Challenges faced and Lessons Learned
+## Challenges faced and Lessons Learned :
 
 - Basically I just know basic development and never did projects like this. So, it took more time for me to explore before doing project.But I found that development projects like this were more fun and I really enjoyed making this.
 - When I came to know about tkinter library in python, I decided to make GUI app. And I am sure now that I have learnt something new which I didnot know all those days before 'Engage2022'.
@@ -65,7 +65,7 @@ For demo video, please follow the link below.
 - So with all these challenges and new learnings I am very greatful to this one month period of "Microsoft Engage 2022".
 
 
-## Future Scope of the project
+## Future Scope of the project :
 
 - In these days technology being improved day to day and we are able to see new things everyday. 
 - What matters is that how long one application or a device being used.
